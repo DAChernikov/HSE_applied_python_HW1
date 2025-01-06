@@ -43,3 +43,4 @@ New York,2010-01-06,0.8845866011361542,winter
 
 ### Contacts
   - `DAChernikov` - author and developer of this repository. Telegram: **@dachernikov** 🚀
+
